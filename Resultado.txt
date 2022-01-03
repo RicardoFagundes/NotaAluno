@@ -1,0 +1,275 @@
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Nelson Junior
+Matricula: 123456
+Aprovado: 6.0
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Diego Costa
+Matricula: 216868
+Reprovado : 3.0
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Jair da Silva
+Matricula: 8989898
+Aprovado: 6.5
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Maria Clara
+Matricula: 8989899
+Aprovado: 6.5
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Ana Clara
+Matricula: 8989900
+Reprovado : 3.0
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Isadora
+Matricula: 8989901
+Especial : 5.0
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Ana Luiza
+Matricula: 8989902
+Aprovado: 7.5
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Ana Julia
+Matricula: 8989903
+Reprovado : 3.0
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Bianca
+Matricula: 8989904
+Aprovado: 6.5
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Catarina
+Matricula: 8989905
+Aprovado: 6.5
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Sofia
+Matricula: 8989906
+Reprovado : 3.0
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Manuela
+Matricula: 8989907
+Especial : 5.0
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Ana
+Matricula: 8989908
+Especial : 4.5
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Maria
+Matricula: 8989909
+Aprovado: 6.0
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Larissa
+Matricula: 8989910
+Aprovado: 6.0
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Mariana
+Matricula: 8989911
+Aprovado: 6.0
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Rafaela
+Matricula: 8989912
+Aprovado: 8.0
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Agnes
+Matricula: 8989913
+Especial : 4.0
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Iara
+Matricula: 8989914
+Aprovado: 8.0
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Estela
+Matricula: 8989915
+Aprovado: 7.0
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Lia
+Matricula: 8989916
+Aprovado: 6.0
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Micaela
+Matricula: 8989917
+Aprovado: 6.0
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Ariana
+Matricula: 8989918
+Aprovado: 9.0
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Anita
+Matricula: 8989919
+Especial : 4.0
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Sabrina
+Matricula: 8989920
+Aprovado: 8.0
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Ingrid
+Matricula: 8989921
+Aprovado: 9.0
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Arthur
+Matricula: 8989922
+Aprovado: 6.0
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Francisco
+Matricula: 8989923
+Aprovado: 6.0
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Antonio
+Matricula: 8989924
+Aprovado: 9.0
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Enrico
+Matricula: 8989925
+Aprovado: 6.0
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Miguel
+Matricula: 8989926
+Aprovado: 8.0
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Henrique
+Matricula: 8989927
+Especial : 4.0
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Caio
+Matricula: 8989928
+Aprovado: 8.0
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Joaquim
+Matricula: 8989929
+Aprovado: 6.0
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Eduardo
+Matricula: 8989930
+Especial : 5.0
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Hugo
+Matricula: 8989931
+Especial : 5.0
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Andre
+Matricula: 8989932
+Especial : 4.5
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Igor
+Matricula: 8989933
+Especial : 5.0
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Levi
+Matricula: 8989934
+Aprovado: 7.5
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Kevin
+Matricula: 8989935
+Reprovado : 3.5
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Martim
+Matricula: 8989936
+Especial : 5.0
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Afonso
+Matricula: 8989937
+Aprovado: 6.0
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Vinicios
+Matricula: 8989938
+Especial : 4.5
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Kelvin
+Matricula: 8989939
+Especial : 5.0
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Jonathan
+Matricula: 8989940
+Aprovado: 7.5
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Aquiles
+Matricula: 8989941
+Reprovado : 3.5
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Pablo
+Matricula: 8989942
+Especial : 5.0
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Santiago
+Matricula: 8989943
+Aprovado: 6.0
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Marcos
+Matricula: 8989944
+Especial : 4.5
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Abrao
+Matricula: 8989945
+Especial : 5.0
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Anderson
+Matricula: 8989946
+Especial : 4.5
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Isadora
+Matricula: 8989947
+Especial : 5.5
+******
+Nome da Discplina: Engenharia de Dados
+Nome do Aluno: Maite
+Matricula: 8989948
+Reprovado : 3.0
+******
+Nome da Discplina: Ciencia da Computação
+Nome do Aluno: Isa
+Matricula: 8989949
+Especial : 5.0
+******
+Nome da Discplina: Engenharia de Software
+Nome do Aluno: Lorenzo
+Matricula: 8989950
+Aprovado: 6.5
+******
